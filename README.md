@@ -1,5 +1,4 @@
 # Toner's Media + Osu Macropad
-
 Here's my submission for my macropad! I created a two-in-one macropad that doubles as a media player, allowing fast forward and rewind as well as volume and brightness adjustments using rotary encoders.
 
 ## PCB and Schematic
@@ -9,10 +8,10 @@ Schematic            |  PCB
 :-------------------------:|:-------------------------:
 ![](Schematic.png)  |  ![](PCB.png)
 
-[ x ] I ran DRC in KiCad and have made sure there are 0 errors!
+- [x] I ran DRC in KiCad and have made sure there are 0 errors!
 
 ## CAD Model:
-![alt text](fit.png)
+![](fit.png)
 
 This was made in fusion 360
 
