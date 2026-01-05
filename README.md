@@ -10,8 +10,8 @@ Schematic            |  PCB
 
 - [x] I ran DRC in KiCad and have made sure there are 0 errors!
 
-## CAD Model:
-![](Fit.png)
+## Assembled Render:
+![](Board.png) | ![](Fit.png) 
 
 This was made in fusion 360
 
